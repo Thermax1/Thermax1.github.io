@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Myself
+subtitle: A (Poor) Elevator Pitch in Written Form
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Who is Anthony Munoz
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am someone who is currently breaking into the technology industry. Here are some of my interests:
 
-What else do you need?
+- Cybersecurity (What I'm trying to really break into)
+- General Programming (Improving daily, but more like weekly/monthly)
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a current Master's student in Computer Science, graduating May 2024. I am excited to break into the industry.
+
+I hope posting what I learn via blog posts show my progress. Look forward to it! :)
