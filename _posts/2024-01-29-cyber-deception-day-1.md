@@ -37,4 +37,7 @@ So, why do we care about cyber deception? The analogy John Strand said of *"thin
 
 After our state-mandated 10-minute break, we go off into hour 2. My favorite part of this hour is learning that SANS has a robots.txt page. I guess you can also call it a "disallow" page. Essentially, don't try poking into anything listed on that, otherwise, your IP (and you) will be blacklisted off the site.
 
-![Trash](/assets/img/trash-throw-day-1.jpg)
+<figure>
+  <img src="/assets/img/trash-throw-day-1.jpg" alt="Trash Symbol sign">
+  <figcaption>This will be you if you mess with SANS, man</figcaption>
+</figure>
