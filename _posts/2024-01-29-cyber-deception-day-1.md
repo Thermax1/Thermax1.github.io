@@ -4,7 +4,7 @@ title: Active Defense & Cyber Deception Day 1
 subtitle: Highlights of what I learned
 thumbnail-img: /assets/img/colorful-laptop.jpg
 cover-img: /assets/img/day-1-cover.jpg
-tags: [Cyber, Defense]
+tags: [Cyber, Defense, Antisyphon Training]
 comments: true
 author: Anthony Munoz
 ---
