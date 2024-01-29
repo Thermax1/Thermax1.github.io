@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: Active Defense & Cyber Deception Day 1
 subtitle: Highlights of what I learned
@@ -7,6 +8,7 @@ cover-img: /assets/img/day-1-cover.jpg
 tags: [Cyber] [Defense]
 comments: true
 author: Anthony Munoz
+
 ---
 
 ## Active Defense and Cyber Deception Day 1
