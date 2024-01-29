@@ -21,7 +21,7 @@ Welcome to my short blog series about me taking Antisyphon Training's Active Def
 
 First and foremost, John Strand has a great presentation attitude. You can tell he's into what he's talking about, talks about it well, and really makes this 4-hour class a breeze.
 
-The first thing I learned about was [MITRE Engage](https://engage.mitre.org). The official site says that MITRE Engage is a framework for planning and discussing engagement operations to achieve your cybersecurity goals. Basically, don't just throw up a firewall and call it a day.
+The first thing I learned about was <a href="https://engage.mitre.org" target="_blank"> MITRE ENGAGE.</a> The official site says that MITRE Engage is a framework for planning and discussing engagement operations to achieve your cybersecurity goals. Basically, don't just throw up a firewall and call it a day.
 
 Then, I finally learned what **Active Defense** and **Cyber Deception** mean.
 
