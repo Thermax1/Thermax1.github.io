@@ -41,3 +41,17 @@ After our state-mandated 10-minute break, we go off into hour 2. My favorite par
   <img src="/assets/img/trash-throw-day-1.jpg" alt="Trash Symbol sign">
   <figcaption>This will be you if you mess with SANS, man</figcaption>
 </figure>
+
+I also learned that we've been using the same terminology forever. It started with patching, firewalls, anti-malware, etc. Then we moved on Next-Gen firewalls, Next-Gen anti-malware. As of 2024, we now have the newest buzzword: **AI**. AI-Antivirus. AI-firewalls. The point of trying to be made is that security is still pretty reactionary by nature.
+
+A pop quiz for those that are still here. What malware should you be most afraid of? John Strand thinks it's any malware that is able to remain persistent. As someone who wants to work in cybersecurity, I'll cede to his authority in this one. Sounds like a major headache. Malware that never leaves. Some hacker is able to create a user account in your system and goes from there. Geez. that sucks.
+
+### Hour 3
+
+The main thing learned here is SEGMENTATION, baby. Everybody and their mom should segment internal networks. First, assume you're going to get compromised, because you are. So, you get hacked, the enemy is in. In a non-segmented scenario (AKA happens way too much) the attacker is able to pivot from one compromised system to the next, until your network is taken over. Attacks such as Pass-the-Hash and Security Token Access(SAT) succeed in environments such as this.
+
+Knowing this, you should treat your internal network (that should be segmented) as hostile. A good rule is to make sure that your internal system firewalls should act like a coffee shop. We've all logged into Starbucks or maybe a mall's Wi-Fi. No inbound traffic is allowed, alerts get generated, and only Admin networks get any exception, as they should. Your HR department shouldn't have any reason to have its subnet talk to the software engineers (If I understood what was being said earlier).
+
+### Hour 4
+
+Lab time! I will write this up later. 
