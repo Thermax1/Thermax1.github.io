@@ -11,7 +11,7 @@ author: Anthony Munoz
 
 ## 90 Day Security Challenge: Day 1
 
-Welcome to blog series about my journey through the 90 Day Security Challenge. My goals for this series is as follows:
+Welcome to my blog series about my journey through the 90 Day Security Challenge. My goals for this series is as follows:
 
 1. Accountability for myself to complete it.
 2. Have proof that I learned something.
@@ -51,7 +51,9 @@ It might take me longer or shorter than 90 days, but I will my best to break up 
 ![woman-frustrated](../assets/img/woman-frustrated.jpg)<br>
 <em> An accurate representation of how I felt doing this</em>
 
-Perhaps the photo is a bit of an exaggeration. I've gotten pretty good at setting up VMs and I have a bit of knowledge with Splunk. My frustration stemmed from configuring the Splunk Universal Forwarder. It turns out your `forward-server` IP address is from the same machine the Forwarder is installed, not the one where Splunk Enterprise is installed. A simple mistake had me googling and reading forums like a madman for no reason.
+#### Lab Goal: Install Splunk Enterprise Server and Universal Forwarder and Configure Them to Work Properly
+
+Perhaps the photo above is a bit of an exaggeration. I've gotten pretty good at setting up VMs and I have a bit of knowledge with Splunk. My frustration stemmed from configuring the Splunk Universal Forwarder. It turns out your `forward-server` IP address is from the same machine the Forwarder is installed, not the one where Splunk Enterprise is installed. A simple mistake had me googling and reading forums like a madman for no reason.
 
 Something that I thought was cool was the creation of custom indexes. For example, I created one called `linux_os_logs`. To make this index actually appear in Splunk, you have to create file called `inputs.conf` located in `/opt/splunkforwarder/system/local`. Inside `inputs.conf`, you put the following text: 
 ```
@@ -68,4 +70,4 @@ As a result of this, anything coming from `syslog` gets labeled as `linux_os_log
 
 The last part of the lab set-up involved installing two Splunk Apps, but I haven't really used them yet. I can write more about them as the days go on.
 
-With the lab set-up complete and running, i am now ready to go onto Task#1: Detection of Unauthorized Access on Linux Blocked by Fail2Ban.
+With the lab set-up complete and running, i am now ready to go onto <a href="../_posts/2025-01-15-90-day-security-challenge-Day 1.md" target="_blank"> Task #1: Detection of Unauthorized Access on Linux Blocked by Fail2Ban.</a>
